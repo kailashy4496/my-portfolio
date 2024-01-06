@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is an insurance project that I am working on..",
+    "skills": ["React", "JavaScript", "Bootstrap", "Redux"],
+    "demo": "https://online.riainsurance.com",
+    "source": "https://www.github.com/kailashy4496"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML5", "CSS", "JavaScript"],
+    "demo": "https://kailashy4496.github.io/register-form/",
+    "source": "https://www.github.com/kailashy4496"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML5", "CSS", "JavaScript"],
+    "demo": "https://kailashy4496.github.io/text-invoice-app/",
+    "source": "https://www.github.com/kailashy4496"
+  }
+]
